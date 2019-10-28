@@ -3,9 +3,9 @@ Attitude Estimation Exam
 
 The task was performed using the divide and conquer paradigm, which allows a modular programming that divided the problem as follows:
 -> Reading Input File
-  -> Handling read data
-    -> Estimation algorithm
-      -> Estimate writing
+-> Handling read data
+-> Estimation algorithm
+-> Estimate writing
 
 Estimation Algorithm:
 Based on the document: Tilt Sensing Using Linear Accelerometers equations 37 and 38 were used to develop the estimate of the roll and pitch angles, taking into account the units of the elements used.
